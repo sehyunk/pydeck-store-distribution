@@ -4,7 +4,7 @@ Pydeck을 이용해 전국 편의점 분포를 시각화 해봤습니다.
 Pydeck 세팅은 변성윤님의 블로그 글을 참고했습니다.
 
 
-
+![image1](/image1.png)
 
 
 ## Reference
