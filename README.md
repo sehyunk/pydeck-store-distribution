@@ -5,8 +5,6 @@ Pydeck 세팅은 변성윤님의 블로그 글을 참고했습니다.
 
 
 
-![image-20210625213650299](/Users/sehyunk/Library/Application Support/typora-user-images/image-20210625213650299.png)
-
 
 
 ## Reference
